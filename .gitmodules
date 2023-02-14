@@ -1,6 +1,3 @@
-[submodule "sources/kube-linstor"]
-	path = sources/kube-linstor
-	url = https://github.com/kvaps/kube-linstor
 [submodule "sources/kube-fencing"]
 	path = sources/kube-fencing
 	url = https://github.com/kvaps/kube-fencing
