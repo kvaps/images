@@ -1,0 +1,21 @@
+[submodule "sources/kube-linstor"]
+	path = sources/kube-linstor
+	url = https://github.com/kvaps/kube-linstor
+[submodule "sources/kube-fencing"]
+	path = sources/kube-fencing
+	url = https://github.com/kvaps/kube-fencing
+[submodule "sources/dnsmasq-controller"]
+	path = sources/dnsmasq-controller
+	url = https://github.com/kubefarm/dnsmasq-controller
+[submodule "sources/kubefarm"]
+	path = sources/kubefarm
+	url = https://github.com/kubefarm/dnsmasq-controller
+[submodule "sources/kube-pipework"]
+	path = sources/kube-pipework
+	url = https://github.com/kvaps/kube-pipework
+[submodule "sources/kubernetes-in-kubernetes"]
+	path = sources/kubernetes-in-kubernetes
+	url = https://github.com/kubefarm/kubernetes-in-kubernetes
+[submodule "sources/kube-opennebula"]
+	path = sources/kube-opennebula
+	url = https://github.com/kvaps/kube-opennebula
